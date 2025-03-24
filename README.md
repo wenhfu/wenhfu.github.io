@@ -1,1 +1,1 @@
-This is a Forked repository from [Yixin Huang](https://github.com/Yixin0313/personal-homepage-template "手把手教你用github制作个人主页")
+This is a forked repository from [Yixin Huang](https://github.com/Yixin0313/personal-homepage-template "手把手教你用github制作个人主页")
