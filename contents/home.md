@@ -7,8 +7,9 @@
 #### Professional Experience
 Assistant Professor (2021 – Present)  
 *School of Mathematical Sciences, Suzhou University of Science and Technology*  
-- Teach courses: *[List courses, e.g., Operations Research, Optimization Methods, Mathematical Modeling, Linear Algebra, Calculus, Probability Theory and Mathematical Statistics]*.  
-- Research areas: Optimization, Mathematical Modeling. 
+*苏州科技大学 数学科学学院*  
+- Teach courses: *Operations Research, Optimization Methods, Mathematical Modeling, Linear Algebra, Calculus, Probability Theory and Mathematical Statistics*.  
+- Research areas: Optimization Methods, Mathematical Modeling. 
 
 
 
