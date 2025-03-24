@@ -24,7 +24,7 @@ Assistant Professor (2021 – Present)
 
 
 #### Education  
-**Suzhou University of Science and Technologh**, Master of Mathematics (2012 – 2016)  
+**Suzhou University of Science and Technologh**, Bachelor of Mathematics and Applied Mathematics (2012 – 2016)  
 
 **Soochow University**, Ph.D. in Operations Research and Control Theory. Advisor: Prof. Zhongwen Chen (2016 – 2021)
 
