@@ -14,11 +14,11 @@ Assistant Professor (2021 – Present)
 
 
 #### Visiting Scholar
-*CAcademy of Mathematics and Systems Science, Chinese Academy of Sciences*  (July 2023 – July 2024)
+*Academy of Mathematics and Systems Science, Chinese Academy of Sciences*  (July 2023 – July 2024)
 - Advisor: Prof. Yu-Hong Dai
 - Collaborated on *Optimization with Least Constraint Violation*.  
 
-*CAcademy of Mathematics and Systems Science, Chinese Academy of Sciences*  (December 2024 – January 2024)
+*Academy of Mathematics and Systems Science, Chinese Academy of Sciences*  (December 2024 – January 2024)
 - Advisor: Prof. Yu-Hong Dai
 - Collaborated on *A natural SQP method for Optimization with Least Constraint Violation*.  
 
