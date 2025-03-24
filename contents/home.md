@@ -16,7 +16,7 @@ Supervise student projects/theses.
 #### Visiting Scholar (2023)  
 *Chinese Academy of Sciences (CAS)*  
 - Advisor: Prof. Yu-Hong Dai (戴彧虹)  
-- Research: *[Briefly describe, e.g., "Stochastic optimization algorithms"]*.  
+- Research: *Optimization with Least Constraint Violation*.  
 
 #### Education  
 **Suzhou University of Science and Technologh**, Master of Mathematics (2012 – 2016)  
