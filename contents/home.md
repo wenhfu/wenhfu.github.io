@@ -1,21 +1,18 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![wenhfu](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/wenhfu)
 
 #### Email  
 <code>wenhfu@163.com</code>  
 <code>wenhfu@usts.edu.cn</code>
 
 #### Professional Experience
-Assistant Professor (2023 – Present)  
+Assistant Professor (2021 – Present)  
 *School of Mathematical Sciences, Suzhou University of Science and Technology*  
-- Teach courses: *[List courses, e.g., Linear Programming, Numerical Analysis]*.  
-- Research areas: Optimization, Control Theory, [Your Focus].  
-- Mentor undergraduate/graduate students. 
-
-Supervise student projects/theses.
+- Teach courses: *[List courses, e.g., Operations Research, Optimization Methods, Mathematical Modeling, Linear Algebra, Calculus, Probability Theory and Mathematical Statistics]*.  
+- Research areas: Optimization, Mathematical Modeling. 
 
 #### Visiting Scholar (2023)  
 *Chinese Academy of Sciences (CAS)*  
-- Advisor: Prof. Yu-Hong Dai (戴彧虹)  
+- Advisor: Prof. Yu-Hong Dai
 - Research: *Optimization with Least Constraint Violation*.  
 
 #### Education  
