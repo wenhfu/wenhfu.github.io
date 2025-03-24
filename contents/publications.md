@@ -1,5 +1,3 @@
-- XXXXXXX论文
-
 - **Wenhao Fu**, Zhongwen Chen*: Superlinear convergence of an SQP-type method for nonlinear semidefinite programming, *International Journal of Numerical Analysis and Modeling*, 2020, 17(4): 592-612.
 
 - Qi Zhao, **Wenhao Fu**, Zhongwen Chen*: A sensitivity result for quadratic second-order cone programming and its application, *Applications of Mathematics*, 2021, 66(3): 413-436.
