@@ -1,20 +1,28 @@
 [![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
-
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>wenhfu@163.com</code>  
+<code>wenhfu@usts.edu.cn</code>
+
+#### Professional Experience
+Assistant Professor (2023 – Present)  
+*School of Mathematical Sciences, Suzhou University of Science and Technology*  
+- Teach courses: *[List courses, e.g., Linear Programming, Numerical Analysis]*.  
+- Research areas: Optimization, Control Theory, [Your Focus].  
+- Mentor undergraduate/graduate students. 
+
+Supervise student projects/theses.
+
+#### Visiting Scholar (2023)  
+*Chinese Academy of Sciences (CAS)*  
+- Advisor: Prof. Yu-Hong Dai (戴彧虹)  
+- Research: *[Briefly describe, e.g., "Stochastic optimization algorithms"]*.  
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+**Suzhou University of Science and Technologh**, Master of Mathematics (2012 – 2016)  
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
 
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+**Soochow University**, Ph.D. in Operations Research and Control Theory (2016 – 2021)  
 
 #### Research Interests  
-XX, XX, XX, XX.
+Nonlinear Programming, Sequential Quadratic Programming Method, Nonlinear Semidefinite Programming, Nonlinear Second-Order Cone Programming, Optimization with Least Constraint Violation.
