@@ -5,6 +5,6 @@ As an Assistant Professor in the Department of Statistics at Suzhou University o
 
 ### Peer Reviewer
 
-- *Asia-Pacific Journal of Operational Research*
-
 - *Optimization Methods & Software*
+
+- *Asia-Pacific Journal of Operational Research*
