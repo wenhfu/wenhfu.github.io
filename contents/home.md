@@ -18,7 +18,7 @@ Assistant Professor (2021 – Present)
 - Advisor: Prof. Yu-Hong Dai
 - Collaborated on *Optimization with Least Constraint Violation*.  
 
-*Academy of Mathematics and Systems Science, Chinese Academy of Sciences*  (December 2024 – January 2024)
+*Academy of Mathematics and Systems Science, Chinese Academy of Sciences*  (December 2024 – January 2025)
 - Advisor: Prof. Yu-Hong Dai
 - Collaborated on *A natural SQP method for Optimization with Least Constraint Violation*.  
 
