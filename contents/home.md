@@ -17,10 +17,15 @@ Assistant Professor (2021 – Present)
 - Advisor: Prof. Yu-Hong Dai
 - Collaborated on *Optimization with Least Constraint Violation*.  
 
+*CAcademy of Mathematics and Systems Science, Chinese Academy of Sciences*  (December 2024 – January 2024)
+- Advisor: Prof. Yu-Hong Dai
+- Collaborated on *A natural SQP method for Optimization with Least Constraint Violation*.  
+
+
 #### Education  
 **Suzhou University of Science and Technologh**, Master of Mathematics (2012 – 2016)  
 
-**Soochow University**, Ph.D. in Operations Research and Control Theory (2016 – 2021)  
+**Soochow University**, Ph.D. in Operations Research and Control Theory. Advisor: Prof. Zhongwen Chen (2016 – 2021)
 
 #### Research Interests  
 Nonlinear Programming, Sequential Quadratic Programming Method, Nonlinear Semidefinite Programming, Nonlinear Second-Order Cone Programming, Optimization with Least Constraint Violation.

@@ -1,21 +1,5 @@
-### **Software Engineer Intern**  
-**January 2025 – June 2025 | ByteDance**  
+### **Assistant Professor**  
+**July 2021 – Present**  
 
-Worked on the development and optimization of large-scale recommendation systems, focusing on algorithm improvements and system efficiency enhancements. Contributed to real-time data processing pipelines and model optimization for personalized content delivery.
+As an Assistant Professor in the Department of Statistics at Suzhou University of Science and Technology, I lead courses in optimization theory, operations research, and mathematical modeling while developing innovative teaching methods for core mathematics curricula. My research focuses on advancing nonlinear optimization techniques, particularly in designing efficient algorithms for least constraint violation problems and improving sequential quadratic programming methods. I collaborate extensively with the Chinese Academy of Sciences to develop practical optimization toolkits and analyze convergence properties in nonconvex optimization scenarios.
 
-#### Key Contributions:  
-- Developed and optimized recommendation algorithms to enhance user engagement and content relevance.  
-- Designed and implemented real-time data processing workflows to improve model inference efficiency.  
-- Conducted A/B testing and performance analysis to refine recommendation strategies based on user behavior data.  
-
----
-
-### **软件工程师实习生**  
-**2025年1月 – 2025年6月 | 字节跳动**  
-
-负责大规模推荐系统的开发与优化，专注于算法改进和系统效率提升。参与实时数据处理管道的构建，并优化模型推理流程，以提升个性化内容推荐效果。
-
-#### 主要贡献:  
-- 研发并优化推荐算法，提高用户互动率和内容相关性。  
-- 设计并实现实时数据处理流程，提升模型推理的计算效率。  
-- 进行A/B测试与性能分析，基于用户行为数据优化推荐策略。
