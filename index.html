@@ -184,8 +184,27 @@
                 <a id="license-link"
                     href="https://github.com/senli1073/senli1073.github.io/blob/main/LICENSE">License</a>
             </div>
+            <!-- 添加访问次数 -->
+            <div id="visit-count" class="text-white-50 small mt-3"></div>
         </div>
     </footer>
+
+    <script>
+        // 简单的访问次数统计（本地存储示例）
+        const visitCountKey = 'visitCount';
+        let visitCount = localStorage.getItem(visitCountKey);
+
+        if (!visitCount) {
+            visitCount = 1;
+        } else {
+            visitCount = parseInt(visitCount) + 1;
+        }
+
+        localStorage.setItem(visitCountKey, visitCount);
+
+        // 显示访问次数
+        document.getElementById('visit-count').innerText = `访问次数：${visitCount}`;
+    </script>
 
 </body>
 
