@@ -4,7 +4,7 @@
 	
 - **Wenhao Fu**, Zhongwen Chen*: A line search SQP-type method with bi-object strategy for nonlinear semidefinite programming, *Acta Mathematicae Applicatae Sinica-English Series*, 2022, 38(2): 338-409.
 	
-- **Wenhao Fu***, Zhongwen Chen: A globally convergent SQP-type method with least constraint violation for nonlinear semidefinite programming, *Optimization*, 2024, online.
+- **Wenhao Fu***, Zhongwen Chen: A globally convergent SQP-type method with least constraint violation for nonlinear semidefinite programming, *Optimization*, 2025, 74(10): 2333-2367.
 
 - Ting Xu, Qi Zhao, **Wenhao Fu***, Zhongwen Chen: A penalty-free method with nonmonotone line search for nonlinear optimization. *Mathematical Programming Computation*, 2025, online.
 
