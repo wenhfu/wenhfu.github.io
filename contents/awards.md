@@ -1,4 +1,8 @@
-### 🏆 Competition, Teaching Awards & Innovation Supervision Since 2022
+### Research Projects
+
+* Research on Least Constraint Violation Optimization Problems and Their High-Precision Algorithms in Large Models, Jiangsu Provincial Natural Science Foundation, Principal Investigator. (2025.9 - 2028.8)
+
+### Competition, Teaching Awards & Innovation Supervision Since 2022
 
 * **Teaching Award:** Second Prize in the 8th Jiangsu Provincial Universities Young Teachers' Teaching Competition for Basic Mathematics Courses.
 * **MCM/ICM (Mathematical Contest in Modeling / Interdisciplinary Contest in Modeling):** **2** Meritorious Winner (M) awards and **4** Honorable Mention (H) awards.
