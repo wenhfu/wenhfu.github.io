@@ -10,3 +10,11 @@ As an Assistant Professor in the Department of Statistics at Suzhou University o
 - *Optimization*
 
 - *Asia-Pacific Journal of Operational Research*
+
+### Teaching Experience
+
+- *Optimization Theory and Methods*
+- *Operations Research*
+- *Mathematical Modeling*
+- *Advanced Mathematics*
+- *Probability and Mathematical Statistics*
