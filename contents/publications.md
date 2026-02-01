@@ -10,6 +10,6 @@
 
 - **Wenhao Fu**, Yu-Hong Dai*: A natural SQP method with potentially infeasible subproblems for nonlinear optimization. Submitted.
   
-- **Wenhao Fu**: A reduced SQP-type algorithm for nonlinear semidefinite programming with LMI constraints. Submitted.
+- **Wenhao Fu***: A reduced SQP-type algorithm for nonlinear semidefinite programming with LMI constraints. Submitted.
 
 - Dongdong Zhang, **Wenhao Fu***: An augmented Lagrangian-based stabilized SQP algorithm for nonlinear semidefinite programming. Submitted.
