@@ -8,7 +8,7 @@
 	
 - **Wenhao Fu**, Zhongwen Chen*: Superlinear convergence of an SQP-type method for nonlinear semidefinite programming, *International Journal of Numerical Analysis and Modeling*, 2020, 17(4): 592-612.
 
-- **Wenhao Fu**, Yu-Hong Dai*: A natural SQP algorithm for nonlinear optimization. Submitted.
+- **Wenhao Fu**, Yu-Hong Dai*: A natural SQP method with potentially infeasible subproblems for nonlinear optimization. Submitted.
   
 - **Wenhao Fu**: A reduced SQP-type algorithm for nonlinear semidefinite programming with LMI constraints. Submitted.
 
