@@ -1,3 +1,5 @@
+- Fen Liu, **Wenhao Fu***: A penalty-free line search method for inequality constrained optimization with infeasibility detection. *Ima Journal Of Numerical Analysis*, 2026, online.
+
 - **Wenhao Fu**, Yu-Hong Dai*: A natural SQP method with potentially infeasible subproblems for nonlinear optimization. *Computational Optimization and Applications*, 2026, online.
 
 - **Wenhao Fu***: A reduced SQP-type algorithm for nonlinear semidefinite programming with LMI constraints. *Numerical Algorithms*, 2026, online.
