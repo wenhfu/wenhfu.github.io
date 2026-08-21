@@ -4,7 +4,7 @@
 
 - **Wenhao Fu***: A reduced SQP-type algorithm for nonlinear semidefinite programming with LMI constraints. *Numerical Algorithms*, 2026, online.
   
-- Ting Xu, Qi Zhao, **Wenhao Fu***, Zhongwen Chen: A penalty-free method with nonmonotone line search for nonlinear optimization. *Mathematical Programming Computation*, 2025, online.
+- Ting Xu, Qi Zhao, **Wenhao Fu***, Zhongwen Chen: A penalty-free method with nonmonotone line search for nonlinear optimization. *Mathematical Programming Computation*, 2026, 18, 297-343.
 
 - **Wenhao Fu***, Zhongwen Chen: A globally convergent SQP-type method with least constraint violation for nonlinear semidefinite programming, *Optimization*, 2025, 74(10): 2333-2367.
 
