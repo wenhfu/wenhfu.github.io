@@ -15,3 +15,5 @@
 - Dongdong Zhang, **Wenhao Fu***: An augmented Lagrangian-based stabilized SQP algorithm for nonlinear semidefinite programming. Submitted.
 
 - **Wenhao Fu**, Rui-Jin Zhang*, Yu-Hong Dai: A semismooth Newton method for an unconstrained reformulation of stabilized SQP subproblems. Submitted.
+
+- Rui-Jin Zhang, **Wenhao Fu***, Yu-Hong Dai: A primal--dual interior-point method for nonsymmetric conic optimization with conjugate-free scaling. Submitted.
