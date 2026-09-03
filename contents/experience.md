@@ -5,6 +5,8 @@ As an Assistant Professor in the Department of Statistics at Suzhou University o
 
 ### Peer Reviewer
 
+- *Computational Optimization and Applications*
+
 - *Optimization Methods & Software*
 
 - *Optimization*
