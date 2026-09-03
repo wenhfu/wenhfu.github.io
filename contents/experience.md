@@ -13,6 +13,8 @@ As an Assistant Professor in the Department of Statistics at Suzhou University o
 
 - *Asia-Pacific Journal of Operational Research*
 
+- *RAIRO - operations research*
+
 ### Teaching Experience
 
 - *Optimization Theory and Methods*
