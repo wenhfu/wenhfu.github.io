@@ -12,11 +12,9 @@
 * **CUMCM (China Undergraduate Mathematical Contest in Modeling):**
   - **1** National Second Prize
   - **1** Provincial First Prize
-  - multiple Provincial Second Prizes and below.
 * **National College Student Statistical Modeling Competition Supervision:**
   - **1** National Third Prize
   - **1** Provincial First Prize
-  - multiple Provincial Second Prizes and below.
 * **Undergraduate Innovation and Entrepreneurship Projects:**
-  - **1** National-level Innovation Project
-  - **2** Provincial-level Innovation Projects.
+  - **2** National-level Innovation Project
+  - **2** Provincial-level Innovation Projects
